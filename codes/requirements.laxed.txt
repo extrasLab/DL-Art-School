@@ -1,7 +1,6 @@
 # Fundamentals
 numpy
 pyyaml
-tb-nightly
 future
 scp
 tqdm
